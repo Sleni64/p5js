@@ -1,0 +1,5 @@
+psjs is a Javascript library for creativve coding 
+
+it helps you easily create interactive graphics, animations, and visual art on a web page. 
+
+p5.js runs in the browser using html + Javascript
